@@ -7,4 +7,5 @@ if __name__ == '__main__':
     # mergeSort(m)
     insertsort(m)
     print(m)
+    print()
 
